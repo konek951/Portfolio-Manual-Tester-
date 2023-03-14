@@ -1,4 +1,4 @@
-# - About me 
+#  About me 
 
 
 Hi! I`m Konrad and I wannt to become and work as a manual tester! 
@@ -22,13 +22,13 @@ I'm looking for a place where my skills will be useful and I learn much more!
 
 
 
-## - Courses:
+##  Courses:
 
 - Kurs Testera Manualnego (Coders Lab - Szkoła IT)
 - MsSQL Server - Solid Fundamentals (Udemy)
 - ISTQB Foundation Level Certificate
 
-## - Know in basics:
+##  Know in basics:
 
 - SQL,
 - TestLink,
@@ -36,7 +36,7 @@ I'm looking for a place where my skills will be useful and I learn much more!
 - Salesforce,
 - Jira.
 
-## - Tech skills in basics:
+##  Tech skills in basics:
 
 - Software testing,
 - Creating test cases and scenarios,
