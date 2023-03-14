@@ -30,8 +30,8 @@ ISTQB Foundation Level Certificate
 
 # - Know in basics:
 
-SQL,
-TestLink,
+*SQL,
+*TestLink,
 Postman,
 Salesforce,
 Jira.
