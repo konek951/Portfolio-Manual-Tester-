@@ -1,7 +1,7 @@
 # - About me 
 
 
-Hi! I`m Konrad and I wanna become manual tester! 
+Hi! I`m Konrad and I wannt to become and work as a manual tester! 
 I am a communicative person with an optimistic attitude to learn new things. I want to start my career as a software tester.
 
 Previously, I worked as a catalog associate, marketing assistant and customer service specialist. I had opportunities in these positions such as :
