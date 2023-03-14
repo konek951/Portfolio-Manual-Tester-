@@ -19,3 +19,26 @@ Additionally, in my free time, I conducted several usability, fucntional and exp
 
 
 I'm looking for a place where my skills will be useful and I learn much more!
+
+
+
+# - Courses:
+
+Kurs Testera Manualnego (Coders Lab - Szkoła IT)
+MsSQL Server - Solid Fundamentals (Udemy)
+ISTQB Foundation Level Certificate
+
+# - Know in basics:
+
+SQL,
+TestLink,
+Postman,
+Salesforce,
+Jira.
+
+# - Tech skills in basics:
+
+Software testing,
+Creating test cases and scenarios,
+Reporting bugs including test tools,
+Application testing.
