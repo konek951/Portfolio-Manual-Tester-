@@ -42,3 +42,9 @@ I'm looking for a place where my skills will be useful and I learn much more!
 - Creating test cases and scenarios,
 - Reporting bugs including test tools,
 - Application testing.
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
